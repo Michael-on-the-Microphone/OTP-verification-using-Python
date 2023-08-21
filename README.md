@@ -1,5 +1,6 @@
 # OTP-verification-using-Python
 (2022, 3rd year year) A OTP verification tool using Tkinter and Twilio
+note: I removed twilio account_sid and auth_token because its personal.
 
 Introduction:
 In this project, we have made an OTP verification System with Help of various libraries. First of all, we made use of Tkinter for creating the GUI for our project. Next to that, to generate the random Numbers as OTP we used a random module. At last, forgetting and checking the OTP we used an API Twilio.
